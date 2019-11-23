@@ -7,5 +7,5 @@ axios.interceptors.response.use((res)=>{
 })
 
 export let getBanner = function () {
-    return axios.get('../../static/mock/banner.json')
+    return axios.get('../../static/mock/llb/banner.json')
 }

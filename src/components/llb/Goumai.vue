@@ -15,30 +15,30 @@
         </div>
         <!-- 轮播图下的图片样式 -->
         <div class="lunbo-bottoms-imgs">
-            <img src="../assets/GoumaiImg/1.png" alt="" @click="lunboimg1">
-            <img src="../assets/GoumaiImg/2.png" alt="" @click="lunboimg2">
-            <img src="../assets/GoumaiImg/3.png" alt="">
-            <img src="../assets/GoumaiImg/4.png" alt="">
-            <img src="../assets/GoumaiImg/5.png" alt="">
-            <img src="../assets/GoumaiImg/6.png" alt="">
-            <img src="../assets/GoumaiImg/7.png" alt="">
-            <img src="../assets/GoumaiImg/8.png" alt="">
+            <img src="../../../static/GoumaiImg/llb/1.png" alt="" @click="lunboimg1">
+            <img src="../../../static/GoumaiImg/llb/2.png" alt="" @click="lunboimg2">
+            <img src="../../../static/GoumaiImg/llb/3.png" alt="">
+            <img src="../../../static/GoumaiImg/llb/4.png" alt="">
+            <img src="../../../static/GoumaiImg/llb/5.png" alt="">
+            <img src="../../../static/GoumaiImg/llb/6.png" alt="">
+            <img src="../../../static/GoumaiImg/llb/7.png" alt="">
+            <img src="../../../static/GoumaiImg/llb/8.png" alt="">
         </div>
         <!-- 抢购效果 -->
         <div class="qianggou-imgs">
-            <img src="../assets/GoumaiImg/zhong1.png" alt="" @click="yuanjia">
-            <img src="../assets/GoumaiImg/zhong2.png" alt="">
+            <img src="../../../static/GoumaiImg/llb/zhong1.png" alt="" @click="yuanjia">
+            <img src="../../../static/GoumaiImg/llb/zhong2.png" alt="">
         </div>
         <!-- 列表详情 -->
         <div class="liebiao-xiezi">
-            <img src="../assets/GoumaiImg/xiangqing1.png" alt="">
+            <img src="../../../static/GoumaiImg/llb/xiangqing1.png" alt="">
         </div>
     </div>
 </template>
 
 <script>
-import llbswiper from '../public/Swiper'
-import {getBanner} from '../api/index'
+import llbswiper from '../../public/llb/Swiper'
+import {getBanner} from '../../api/index'
 export default {
     name:"llbgoumai",
     components:{

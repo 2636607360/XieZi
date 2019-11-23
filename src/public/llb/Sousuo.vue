@@ -6,7 +6,7 @@
         <i class="iconfont icon-xiangji x"></i>
         <!-- 头部右边分类 -->
         <div id="top-box">
-            <img src="../assets/top-fenlei.png" alt="">
+            <img src="../../assets/llb/top-fenlei.png" alt="">
         </div>
     </div>
 </template>
