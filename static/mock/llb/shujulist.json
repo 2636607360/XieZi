@@ -1,0 +1,19 @@
+{
+    "shuju":[
+        {  "xieziImg":"/assets/GoumaiImg/xiangqing1.png",
+            "xieziImgName": "PEACEMMINUSONE x Nike Air 权志龙 联名",
+            "xieziImgPrice":3999,
+            "xieziImgId":1
+        },
+        {  "xieziImg":"",
+            "xieziImgName": "Air Jordan 7 Retro Reflections 反射银 篮球鞋",
+            "xieziImgPrice":1009,
+            "xieziImgId":2
+        },
+        {  "xieziImg":"",
+            "xieziImgName": "Air Jordan 1 Mid Jeter 海军",
+            "xieziImgPrice":1309,
+            "xieziImgId":3
+        }
+    ]
+}
